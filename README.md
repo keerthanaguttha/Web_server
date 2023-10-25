@@ -1,6 +1,6 @@
 # Developing a Simple Webserver
-Name: GUTTHA KEERTHANA
-Reference No: 23012783
+Name : GUTTHA KEERTHANA
+Reference No : 23012783
 
 
 # AIM:
@@ -55,7 +55,8 @@ httpd = HTTPServer(server_address, HelloHandler)
 httpd.serve_forever()
 ```
 # OUTPUT:
-![](/images/webserver.jpg)
+![image](https://github.com/keerthanaguttha/Web_server/assets/145742927/518bae9c-adea-47e2-b256-e48a75fb18df)
+
 # RESULT:
 
 The program is executed succesfully
